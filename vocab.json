@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "January 2020 - History",
+    "words": [
+              {
+                "id": 0,
+                "word": ["hermano"],
+                "definition": ["brother"]
+              },
+              {
+                "id": 1,
+                "word": ["hermano"],
+                "definition": ["brother"]
+              }
+    ]
+  }
+]
