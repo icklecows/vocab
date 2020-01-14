@@ -28,15 +28,11 @@ $(document).ready(function () {
 				definition = _.first(word.definition)
 				questionAndAnswer = '<div class="row mb-4">' +
 													'<div class="col-md-8">' +
-													'<div class="input-group">' +
-													'<div class="input-group-prepend">' +
 													'<label class="input-group-text" for="word_' + word.id + '">' + definition + '</label>' +
-													'</div>' +
 													'<input type="text" class="form-control guess" id="word_' + word.id + '"></input>' +
 													'</div>' +
-													'</div>' +
 													'<div classs="col-md-4" id="answer_' + word.id + '"></div>' +
-													'</div></div></div>'
+													'</div>'
 				$('#word_list').append(questionAndAnswer)
 			})
 			$('#word_list').append('<button class="button success" id="score_quiz">Check my answers!</button>')
