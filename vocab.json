@@ -5,13 +5,38 @@
     "words": [
               {
                 "id": 0,
-                "word": ["hermano"],
-                "definition": ["brother"]
+                "word": ["Feudal"],
+                "definition": ["The hierarchy of everybody's place in society"]
               },
               {
                 "id": 1,
-                "word": ["hermano"],
-                "definition": ["brother"]
+                "word": ["Domesday"],
+                "definition": ["A complete survey of the land and people in England, made in 1086 by order of William I"]
+              },
+              {
+                "id": 2,
+                "word": ["Motte and Bailey"],
+                "definition": ["A style of castle consisting of a fort on a hill surrounded by a palisade (defensive wall) and ditch"]
+              },
+              {
+                "id": 3,
+                "word": ["Harrying of the North"],
+                "definition": ["A number of campaigns waged by William I to destroy the previous nobility and inhabitants"]
+              },
+              {
+                "id": 4,
+                "word": ["Trial by Combat"],
+                "definition": ["A method of Germanic law to settle accusations in the absence of witnesses or a confession by fighting"]
+              },
+              {
+                "id": 5,
+                "word": ["Murdrum Fine"],
+                "definition": ["Money owed by a community if a Norman is murdered."]
+              },
+              {
+                "id": 6,
+                "word": ["Cathedrals"],
+                "definition": ["The main church of a diocese (church region), with which the bishop is officially associated."]
               }
     ]
   }
