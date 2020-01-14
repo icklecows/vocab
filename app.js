@@ -28,7 +28,7 @@ $(document).ready(function () {
 				definition = _.first(word.definition)
 				questionAndAnswer = '<div class="row mb-4">' +
 													'<div class="col-md-8">' +
-													'<label class="input-group-text" for="word_' + word.id + '">' + definition + '</label>' +
+													'<label for="word_' + word.id + '">' + definition + '</label>' +
 													'<input type="text" class="form-control guess" id="word_' + word.id + '"></input>' +
 													'</div>' +
 													'<div classs="col-md-4" id="answer_' + word.id + '"></div>' +
