@@ -31,12 +31,12 @@
               {
                 "id": 5,
                 "word": ["Murdrum Fine"],
-                "definition": ["Money owed by a community if a Norman is murdered."]
+                "definition": ["Money owed by a community if a Norman is murdered"]
               },
               {
                 "id": 6,
                 "word": ["Cathedrals"],
-                "definition": ["The main churches of a diocese (church region), with which the bishop is officially associated."]
+                "definition": ["The main churches of a diocese (church region), with which the bishop is officially associated"]
               }
     ]
   }
